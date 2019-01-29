@@ -54,7 +54,6 @@ input#rotateVideo:not(:checked)~video{
 	animation-play-state: paused;
 }
 
-
 /* Animation Icon Styles */
 
 input#rotateVideo{
